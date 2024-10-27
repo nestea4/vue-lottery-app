@@ -1,3 +1,4 @@
+<!-- Modal.vue -->
 <template>
   <div class="modal-backdrop" @click="$emit('close')">
     <div class="modal-content" @click.stop>

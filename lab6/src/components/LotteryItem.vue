@@ -1,3 +1,4 @@
+<!-- LotteryItem.vue -->
 <template>
   <div class="container mt-4">
     <WinnersBlock

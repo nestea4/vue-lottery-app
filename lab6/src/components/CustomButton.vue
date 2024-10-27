@@ -1,3 +1,4 @@
+<!-- CustomButton.vue -->
 <template>
   <button
     :class="['btn', `btn-${variant}`, { 'btn-sm': small }]"

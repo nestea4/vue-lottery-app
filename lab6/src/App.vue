@@ -1,3 +1,4 @@
+<!-- App.vue -->
 <script setup lang="ts">
 import LotteryItem from "./components/LotteryItem.vue";
 </script>

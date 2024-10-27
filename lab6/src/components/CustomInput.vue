@@ -1,3 +1,4 @@
+<!-- CustomInput.vue -->
 <template>
   <div class="mb-3">
     <input

@@ -1,3 +1,4 @@
+<!-- Winner.vue -->
 <template>
   <span class="badge bg-info text-light">
     {{ winner.name }}

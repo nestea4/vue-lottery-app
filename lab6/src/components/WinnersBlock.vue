@@ -1,3 +1,4 @@
+<!-- WinnerBlock.vue -->
 <template>
   <div class="card mb-4">
     <div class="card-body d-flex justify-content-between align-items-center">

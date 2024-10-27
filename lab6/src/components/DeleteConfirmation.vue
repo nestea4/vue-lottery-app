@@ -1,3 +1,4 @@
+<!-- DeleteConfirmation.vue -->
 <template>
   <div>
     <h2>Confirm Deletion</h2>

@@ -1,3 +1,4 @@
+<!-- EditParticipantForm.vue -->
 <template>
   <form @submit.prevent="submitForm">
     <h2>Edit Participant</h2>
